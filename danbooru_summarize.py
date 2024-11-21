@@ -2,7 +2,7 @@ import os
 from collections import Counter
 
 # Define the directory containing the captions.txt files
-base_dir = r"C:\Users\user\Desktop\git\dataset\outputs\captions"
+base_dir = r"C:\Users\user\Desktop\git\video_dataset_trim\outputs\captions"
 
 def count_tags_in_file(file_path):
     tag_counter = Counter()
