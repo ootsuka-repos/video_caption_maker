@@ -1,0 +1,7 @@
+transformers
+opencv-python
+Pillow
+numpy
+pandas
+onnxruntime
+huggingface_hub
