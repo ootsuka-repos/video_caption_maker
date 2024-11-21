@@ -118,8 +118,8 @@ def process_all_videos_in_folder(
 
 # 使用例
 if __name__ == "__main__":
-    folder_path = r"C:\Users\user\Desktop\git\dataset\outputs\480x720\videos"
-    output_base_dir = r"C:\Users\user\Desktop\git\dataset\outputs\captions"
+    folder_path = r"C:\Users\user\Desktop\git\video_dataset_trim\outputs\720x480\videos"
+    output_base_dir = r"C:\Users\user\Desktop\git\video_dataset_trim\outputs\captions"
     
     process_all_videos_in_folder(
         folder_path=folder_path,

@@ -3,5 +3,5 @@ opencv-python
 Pillow
 numpy
 pandas
-onnxruntime
+onnxruntime-gpu
 huggingface_hub
